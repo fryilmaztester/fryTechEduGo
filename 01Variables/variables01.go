@@ -34,4 +34,24 @@ func main() {
 	*/
 
 	//Go Prog Lang has got static type. You can not assigned a string to int type.
+
+	var firstName, lastName string = "Fatih", "Yılmaz"
+
+	fmt.Println(firstName, lastName) //Fatih Yılmaz
+
+	//Shorltly MEthod
+	//you can not use "var" keyword
+
+	isRetired := true
+	fmt.Println(isRetired)
+
+	//*** You can change variable value other lines.
+
+	//But  you must be careful " MUST USE ":" markdown in case of "var" ."
+
+	n := 37
+	fmt.Println("first n: ", n)
+
+	n = 45
+	fmt.Println("second n: ", n)
 }
