@@ -44,4 +44,6 @@ func main() {
 	}{name: "The Boss", money: true}
 
 	fmt.Println(theBoss)
+
+	fmt.Println("FRY Branch Deneme")
 }
