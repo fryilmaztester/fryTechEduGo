@@ -46,4 +46,5 @@ func main() {
 	fmt.Println(theBoss)
 
 	fmt.Println("Fatih Branch Deneme")
+	fmt.Println("Deneme")
 }
