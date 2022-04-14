@@ -53,6 +53,7 @@ func main() {
 	double(&x)
 	fmt.Println(x)
 
+	fmt.Println("PR Deneme")
 }
 
 func double(num *int) {
