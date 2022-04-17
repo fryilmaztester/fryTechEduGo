@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Matrix",
+    "actors": [
+      "Kenau","Carrie"
+    ],
+    "published_Year": 1996,
+    "genre": {
+      "id": 5,
+      "name": "Action"
+    },
+    "rating": 8.3
+  },
+
+  {
+    "id": 2,
+    "title": "Norweigian",
+    "actors": null,
+    "published_Year": 2001,
+    "genre": {
+      "id": 4,
+      "name": "Dram"
+    },
+    "rating": 9.2
+  }
+
+]
